@@ -20,8 +20,6 @@ puts ARGV[0].scan(/School/).join
 ~
 ~
 ~
-~
-~
 -- INSERT --                                                  0,1           All
 
 ~
